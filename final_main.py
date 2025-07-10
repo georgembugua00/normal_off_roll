@@ -1544,19 +1544,19 @@ def main_app():
         l_hub = st.Page(
             title="My Leave Hub",
             icon=":material/flight_takeoff:",
-            func=employee_leave_portal_page
+            page=employee_leave_portal_page
         )
         pages["Leave Management"] = [l_hub]
     elif user_role == "Manager":
         manager_hub = st.Page(
             title="Manage Team Leaves",
             icon=":material/group_add:",
-            func=manager_leave_request_manager_page
+            page=manager_leave_request_manager_page
         )
         team_calendar = st.Page(
             title="Team Leave Calendar",
             icon=":material/calendar_month:",
-            func=team_leave_calendar_page
+            page=team_leave_calendar_page
         )
         pages["Leave Management"] = [manager_hub, team_calendar]
     elif user_role == "HR":
