@@ -1536,7 +1536,7 @@ def main_app():
         page="Home",
         icon=":material/home:",
         default=True,
-        title=lambda: st.write(f"## Welcome, {st.session_state.full_name} ({st.session_state.user_role})!") # Simple home for now
+        title="Welcome to the Offroll Manager System" # Simple home for now
     )
     pages["Home"] = [home_page]
 
