@@ -1,0 +1,251 @@
+,Employee_Name,EmpID,Salary,State,DOB,Sex,MaritalDesc,DateofHire,DateofTermination,EmploymentStatus,Department,ManagerName,PerformanceScore,Absences,Partner,Occupation
+0,"Adinolfi, Wilson  K",236569,30014,Katito,07/10/83,M ,Single,7/5/2011,Active,Active,Sales and Distribution       ,Michael Albert,Exceeds,1,Sheer Logic,Sales Executive
+1,"Ait Sidi, Karthikeyan   ",233894,38200,Gikambura,05/05/75,M ,Married,3/30/2015,6/16/2016,Voluntarily Terminated,Sales and Distribution,Simon Roup,Fully Meets,17,Sheer Logic,Sales Executive
+2,"Akinkuolie, Sarah",231027,39620,Maseno,09/19/88,F,Married,7/5/2011,9/24/2012,Voluntarily Terminated,Sales and Distribution       ,Kissy Sullivan,Fully Meets,3,Fine Media,Sales Executive
+3,"Alagbe,Trina",231830,32657,Ngong,09/27/88,F,Married,1/7/2008,Active,Active,Sales and Distribution       ,Elijiah Gray,Fully Meets,15,Fine Media,Sales Executive
+4,"Anderson, Carol ",233285,37553,Muhoroni,09/08/89,F,Divorced,7/11/2011,9/6/2016,Voluntarily Terminated,Sales and Distribution       ,Webster Butler,Fully Meets,2,Sheer Logic,Sales Executive
+5,"Anderson, Linda  ",239625,38578,Ruiru,05/22/77,F,Single,1/9/2012,Active,Active,Sales and Distribution       ,Amy Dunn,Exceeds,15,Fine Media,Sales Executive
+6,"Andreola, Colby",231822,30824,Bamburi,05/24/79,F,Single,11/10/2014,Active,Active,Software Engineering,Alex Sweetwater,Fully Meets,19,Fine Media,Sales Executive
+7,"Athwal, Sam",234347,34571,Moi’s Bridge,02/18/83,M ,Widowed,9/30/2013,Active,Active,Sales and Distribution       ,Ketsia Liebig,Fully Meets,19,Fine Media,Sales Executive
+8,"Bachiochi, Linda",235410,38006,South B,02/11/70,F,Single,7/6/2009,Active,Active,Sales and Distribution       ,Brannon Miller,Fully Meets,4,Sheer Logic,Sales Executive
+9,"Bacong, Alejandro ",233733,35199,Eldoret,01/07/88,M ,Divorced,1/5/2015,Active,Active,Sales and Distribution,Peter Monroe,Fully Meets,16,Fine Media,Sales Executive
+10,"Baczenski, Rachael  ",239746,39701,Port Reitz,01/12/74,F,Married,1/10/2011,1/12/2017,Voluntarily Terminated,Sales and Distribution       ,David Stanley,Fully Meets,12,Fine Media,Sales Executive
+11,"Barbara, Thomas",232439,30831,Kisumu,02/21/74,M ,Married,4/2/2012,9/19/2016,Voluntarily Terminated,Sales and Distribution       ,Kissy Sullivan,Fully Meets,15,Fine Media,Sales Executive
+12,"Barbossa, Hector",237696,35532,Port Reitz,07/04/88,M ,Divorced,11/10/2014,Active,Active,Sales and Distribution,Simon Roup,Exceeds,9,Sheer Logic,Sales Executive
+13,"Barone, Francesco  A",238439,38943,Port Reitz,07/20/83,M ,Single,2/20/2012,Active,Active,Sales and Distribution       ,Kelley Spirea,Fully Meets,7,Sheer Logic,Sales Executive
+14,"Barton, Nader",236871,38644,Likoni,07/15/77,M ,Divorced,9/24/2012,4/6/2017,Voluntarily Terminated,Sales and Distribution       ,Michael Albert,Fully Meets,1,Fine Media,Sales Executive
+15,"Bates, Norman",233828,34913,Nyali,10/18/81,M ,Single,2/21/2011,8/4/2017,Terminated for Cause,Sales and Distribution       ,Kelley Spirea,Fully Meets,20,Sheer Logic,Sales Executive
+16,"Beak, Kimberly  ",237512,31417,Mombasa Rd,04/17/66,F,Married,7/21/2016,Active,Active,Sales and Distribution       ,Kelley Spirea,Exceeds,16,Fine Media,Sales Executive
+17,"Beatrice, Courtney ",234692,34278,Kombewa,10/27/70,F,Single,4/4/2011,Active,Active,Sales and Distribution       ,Elijiah Gray,Fully Meets,12,Sheer Logic,Sales Executive
+18,"Becker, Renee",237564,30599,Gikambura,04/04/86,F,Single,7/7/2014,9/12/2015,Terminated for Cause,Sales and Distribution,Simon Roup,Fully Meets,8,Sheer Logic,Sales Executive
+19,"Becker, Scott",236795,37724,Karen,04/06/79,M ,Single,7/8/2013,Active,Active,Sales and Distribution       ,Webster Butler,Fully Meets,13,Sheer Logic,Sales Executive
+20,"Bernstein, Sean",239735,36393,Loitokitok,12/22/70,M ,Single,4/2/2012,Active,Active,Sales and Distribution       ,Amy Dunn,Fully Meets,13,Fine Media,Sales Executive
+21,"Biden, Lowan  M",232313,37378,Dagoretti,12/27/58,F,Divorced,8/19/2013,Active,Active,Sales and Distribution       ,Ketsia Liebig,Fully Meets,2,Sheer Logic,Sales Executive
+22,"Billis, Helen",236877,36598,South C,09/01/89,F,Married,7/7/2014,Active,Active,Sales and Distribution       ,Brannon Miller,Exceeds,19,Fine Media,Sales Executive
+23,"Blount, Dianna",237322,36822,Kombewa,09/21/90,F,Single,4/4/2011,Active,Active,Sales and Distribution       ,Michael Albert,Needs Improvement,3,Sheer Logic,Sales Executive
+24,"Bondwell, Betsy",239440,31762,Burnt Forest,01/16/67,F,Single,1/10/2011,4/4/2014,Voluntarily Terminated,Sales and Distribution       ,Elijiah Gray,Fully Meets,5,Fine Media,Sales Executive
+25,"Booth, Frank",237339,37507,Bamburi,07/30/64,M ,Single,2/17/2014,2/19/2016,Terminated for Cause,Sales and Distribution,Simon Roup,Fully Meets,2,Fine Media,Sales Executive
+26,"Boutwell, Bonalyn",235033,34799,Maseno,04/04/87,F,Married,2/16/2015,Active,Active,Admin Offices,Brandon R. LeBlanc,Fully Meets,4,Sheer Logic,Sales Executive
+27,"Bozzi, Charles",236270,39743,Mombasa Rd,03/10/70,M ,Single,9/30/2013,8/7/2014,Voluntarily Terminated,Sales and Distribution       ,Janet King,Fully Meets,14,Sheer Logic,Sales Executive
+28,"Brill, Donna",232597,35288,Karen,08/24/90,F,Married,4/2/2012,6/15/2013,Voluntarily Terminated,Sales and Distribution       ,David Stanley,Fully Meets,6,Fine Media,Sales Executive
+29,"Brown, Mia",237724,34646,Bamburi,11/24/87,F,Married,10/27/2008,Active,Active,Admin Offices,Brandon R. LeBlanc,Fully Meets,14,Fine Media,Sales Executive
+30,"Buccheri, Joseph  ",234266,39440,Ngong,07/28/83,M ,Single,9/29/2014,Active,Active,Sales and Distribution       ,Webster Butler,Fully Meets,9,Fine Media,Sales Executive
+31,"Bugali, Josephine ",239571,32627,Katito,10/30/69,F,Separated,11/11/2013,Active,Active,Sales and Distribution       ,Kissy Sullivan,Fully Meets,17,Sheer Logic,Sales Executive
+32,"Bunbury, Jessica",232946,33423,Lang’ata,06/01/64,F,Married,8/15/2011,8/2/2014,Voluntarily Terminated,Sales,John Smith,Fully Meets,19,Fine Media,Sales Executive
+33,"Burke, Joelle",235783,33288,Moi’s Bridge,03/02/80,F,Single,3/5/2012,Active,Active,Sales and Distribution       ,Amy Dunn,Fully Meets,3,Fine Media,Sales Executive
+34,"Burkett, Benjamin ",236981,30702,Loitokitok,08/19/77,M ,Married,4/4/2011,Active,Active,Sales and Distribution       ,Ketsia Liebig,Fully Meets,15,Sheer Logic,Sales Executive
+35,"Cady, Max ",232930,35467,Soy,11/22/66,M ,Single,8/15/2011,Active,Active,Software Engineering,Jennifer Zamora,Fully Meets,4,Fine Media,Sales Executive
+36,"Candie, Calvin",232507,36268,Burnt Forest,08/09/83,M ,Single,1/28/2016,Active,Active,Sales and Distribution       ,Janet King,Exceeds,14,Fine Media,Sales Executive
+37,"Carabbio, Judith",235156,35739,Kesses,04/05/87,F,Single,11/11/2013,Active,Active,Software Engineering,Alex Sweetwater,Fully Meets,3,Fine Media,Sales Executive
+38,"Carey, Michael  ",231658,35969,Kisumu,02/02/83,M ,Single,3/31/2014,Active,Active,Sales and Distribution       ,Kelley Spirea,Fully Meets,14,Fine Media,Sales Executive
+39,"Carr, Claudia  N",236273,37208,Ngong,06/06/86,F,Single,6/30/2016,Active,Active,Sales and Distribution,Simon Roup,Fully Meets,7,Fine Media,Sales Executive
+40,"Carter, Michelle ",231071,35646,Moi’s Bridge,05/15/63,F,Single,8/18/2014,Active,Active,Sales,John Smith,Fully Meets,7,Fine Media,Sales Executive
+41,"Chace, Beatrice ",236647,36778,Kajulu,01/02/51,F,Single,9/29/2014,Active,Active,Sales and Distribution       ,Michael Albert,Fully Meets,11,Fine Media,Sales Executive
+42,"Champaigne, Brian",234461,39747,Ruiru,02/09/72,M ,Married,9/6/2016,Active,Active,Sales and Distribution,Jennifer Zamora,Fully Meets,8,Sheer Logic,Sales Executive
+43,"Chan, Lin",237592,32266,Nyahera,02/12/79,F,Single,5/12/2014,Active,Active,Sales and Distribution       ,Elijiah Gray,Fully Meets,11,Sheer Logic,Sales Executive
+44,"Chang, Donovan  E",238892,32900,Likoni,08/24/83,M ,Single,7/8/2013,Active,Active,Sales and Distribution       ,Webster Butler,Fully Meets,4,Fine Media,Sales Executive
+45,"Chigurh, Anton",234612,37154,Katito,06/11/70,M ,Single,5/14/2012,Active,Active,Sales,Lynn Daneault,Fully Meets,17,Fine Media,Sales Executive
+46,"Chivukula, Enola",239133,34028,Kasarani,08/27/83,F,Single,6/27/2011,11/15/2015,Voluntarily Terminated,Sales and Distribution       ,Amy Dunn,Fully Meets,3,Fine Media,Sales Executive
+47,"Cierpiszewski, Caroline  ",234988,33301,Ahero,05/31/88,F,Single,10/3/2011,Active,Active,Sales and Distribution       ,Ketsia Liebig,Fully Meets,3,Fine Media,Sales Executive
+48,"Clayton, Rick",238393,39151,Ruiru,09/05/85,M ,Single,9/5/2012,Active,Active,Sales and Distribution,Eric Dougall,Fully Meets,2,Fine Media,Sales Executive
+49,"Cloninger, Jennifer",233370,35252,Isinya,08/31/81,F,Married,5/16/2011,1/7/2013,Voluntarily Terminated,Sales and Distribution       ,Brannon Miller,Fully Meets,9,Fine Media,Sales Executive
+50,"Close, Phil",239528,33382,Nyali,11/25/78,M ,Married,8/30/2010,9/26/2011,Voluntarily Terminated,Sales and Distribution       ,David Stanley,Fully Meets,6,Sheer Logic,Sales Executive
+51,"Clukey, Elijian",231226,33989,Kesses,08/26/80,M ,Married,7/6/2016,Active,Active,Sales and Distribution       ,Brannon Miller,Exceeds,5,Fine Media,Sales Executive
+52,"Cockel, James",236323,30256,South B,09/08/77,M ,Single,7/8/2013,Active,Active,Sales and Distribution       ,David Stanley,Fully Meets,3,Sheer Logic,Sales Executive
+53,"Cole, Spencer",234863,35057,Ahero,08/12/79,M ,Single,7/11/2011,9/23/2016,Terminated for Cause,Sales and Distribution       ,Kissy Sullivan,Needs Improvement,16,Sheer Logic,Sales Executive
+54,"Corleone, Michael",231013,33966,Eastleigh,12/17/75,M ,Divorced,7/20/2010,Active,Active,Sales and Distribution       ,Janet King,Needs Improvement,3,Sheer Logic,Sales Executive
+55,"Corleone, Vito",237033,37976,South B,03/19/83,M ,Single,1/5/2009,Active,Active,Sales and Distribution       ,Janet King,Exceeds,15,Sheer Logic,Sales Executive
+56,"Cornett, Lisa ",232844,32238,Kasarani,03/31/77,F,Married,1/5/2015,Active,Active,Sales and Distribution       ,Kelley Spirea,Fully Meets,6,Sheer Logic,Sales Executive
+57,"Costello, Frank",236188,39807,Mombasa Island,08/26/86,M ,Married,3/30/2015,Active,Active,Sales and Distribution,Simon Roup,Fully Meets,2,Sheer Logic,Sales Executive
+58,"Crimmings,   Jean",231738,38135,Koru,04/10/87,F,Single,7/6/2016,Active,Active,Sales and Distribution       ,Michael Albert,Fully Meets,15,Fine Media,Sales Executive
+59,"Cross, Noah",237044,39088,Loitokitok,09/09/65,M ,Single,11/10/2014,Active,Active,Sales and Distribution,Peter Monroe,Fully Meets,5,Fine Media,Sales Executive
+60,"Daneault, Lynn",239722,32085,Kesses,04/19/90,F,Single,5/5/2014,Active,Active,Sales,Debra Houlihan,Fully Meets,8,Sheer Logic,Sales Executive
+61,"Daniele, Ann  ",234570,32843,Katito,01/18/52,F,Married,11/10/2014,Active,Active,Sales and Distribution,Peter Monroe,Fully Meets,19,Fine Media,Sales Executive
+62,"Darson, Jene'ya ",238924,30411,Lang’ata,11/05/78,F,Married,7/2/2012,Active,Active,Sales and Distribution       ,Elijiah Gray,Fully Meets,1,Fine Media,Sales Executive
+63,"Davis, Daniel",231915,38786,Soy,09/14/79,M ,Single,11/7/2011,Active,Active,Sales and Distribution       ,Kissy Sullivan,Fully Meets,6,Sheer Logic,Sales Executive
+64,"Dee, Randy",231720,37979,Eastleigh,04/15/88,M ,Married,7/9/2018,Active,Active,Sales and Distribution       ,Brannon Miller,Fully Meets,2,Sheer Logic,Sales Executive
+65,"DeGweck,  James",236779,33841,Gikambura,10/31/77,M ,Married,5/16/2011,6/8/2016,Voluntarily Terminated,Sales and Distribution       ,Webster Butler,Fully Meets,14,Fine Media,Sales Executive
+66,"Del Bosque, Keyla",239403,37112,Isinya,07/05/79,F,Single,1/9/2012,Active,Active,Software Engineering,Alex Sweetwater,Fully Meets,8,Sheer Logic,Sales Executive
+67,"Delarge, Alex",232999,35348,South C,11/02/75,M ,Single,9/29/2014,Active,Active,Sales,John Smith,PIP,5,Sheer Logic,Sales Executive
+68,"Demita, Carla",233025,35718,Kasarani,02/25/51,F,Separated,4/4/2011,11/4/2015,Voluntarily Terminated,Sales and Distribution       ,Kelley Spirea,Fully Meets,1,Fine Media,Sales Executive
+69,"Desimone, Carl ",235246,38475,Nyahera,04/19/67,M ,Married,7/7/2014,Active,Active,Sales and Distribution       ,Amy Dunn,PIP,9,Fine Media,Sales Executive
+70,"DeVito, Tommy",232763,35671,Ahero,09/04/83,M ,Single,2/15/2017,Active,Active,Sales and Distribution,Brian Champaigne,Fully Meets,15,Sheer Logic,Sales Executive
+71,"Dickinson, Geoff ",232064,39525,Kitengela,11/15/82,M ,Single,5/12/2014,Active,Active,Sales and Distribution       ,Ketsia Liebig,Fully Meets,1,Fine Media,Sales Executive
+72,"Dietrich, Jenna  ",233763,34118,Changamwe,05/14/87,F,Single,2/20/2012,Active,Active,Sales,John Smith,PIP,17,Sheer Logic,Sales Executive
+73,"DiNocco, Lily ",231148,34244,Mombasa Rd,12/02/78,F,Married,1/7/2013,Active,Active,Sales and Distribution       ,Brannon Miller,Needs Improvement,6,Sheer Logic,Sales Executive
+74,"Dobrin, Denisa  S",237792,32792,Likoni,10/07/86,F,Single,4/2/2012,Active,Active,Sales and Distribution       ,David Stanley,Fully Meets,15,Sheer Logic,Sales Executive
+75,"Dolan, Linda",233118,38602,Eldoret,07/18/88,F,Married,1/5/2015,Active,Active,Sales and Distribution,Peter Monroe,Fully Meets,16,Sheer Logic,Sales Executive
+76,"Dougall, Eric",231566,37806,Lang’ata,07/09/70,M ,Single,1/5/2014,Active,Active,Sales and Distribution,Jennifer Zamora,Exceeds,4,Sheer Logic,Sales Executive
+77,"Driver, Elle",232983,38633,Westlands,11/08/88,F,Single,1/10/2011,Active,Active,Sales,Lynn Daneault,Exceeds,14,Fine Media,Sales Executive
+78,"Dunn, Amy  ",237792,37803,Muhoroni,11/28/73,F,Single,9/18/2014,Active,Active,Sales and Distribution       ,Janet King,Fully Meets,4,Sheer Logic,Sales Executive
+79,"Dunne, Amy",232634,38317,Bamburi,09/23/73,F,Married,4/26/2010,Active,Active,Sales and Distribution       ,Ketsia Liebig,Fully Meets,6,Sheer Logic,Sales Executive
+80,"Eaton, Marianne",239273,32104,Katito,09/05/91,F,Married,4/4/2011,6/6/2017,Voluntarily Terminated,Sales and Distribution       ,Kissy Sullivan,Fully Meets,7,Sheer Logic,Sales Executive
+81,"Engdahl, Jean",239947,39422,Loitokitok,05/31/74,M ,Single,11/10/2014,Active,Active,Sales and Distribution       ,Kelley Spirea,Fully Meets,8,Fine Media,Sales Executive
+82,"England, Rex",231379,37153,Upper Hill,08/25/78,M ,Married,3/31/2014,Active,Active,Sales and Distribution       ,Kelley Spirea,Fully Meets,3,Sheer Logic,Sales Executive
+83,"Erilus, Angela",237117,30858,Likoni,08/25/89,F,Separated,7/7/2014,Active,Active,Sales and Distribution       ,Michael Albert,PIP,5,Sheer Logic,Sales Executive
+84,"Estremera, Miguel",238820,34057,Kesses,09/02/83,M ,Single,4/2/2012,9/27/2018,Terminated for Cause,Sales and Distribution       ,Michael Albert,Needs Improvement,16,Sheer Logic,Sales Executive
+85,"Evensen, April",232506,39870,Kombewa,05/06/89,F,Single,2/17/2014,2/25/2018,Terminated for Cause,Sales and Distribution       ,Elijiah Gray,Needs Improvement,19,Sheer Logic,Sales Executive
+86,"Exantus, Susan",238200,31315,Gikambura,05/15/87,F,Married,5/2/2011,6/5/2013,Terminated for Cause,Software Engineering,Alex Sweetwater,Needs Improvement,19,Fine Media,Sales Executive
+87,"Faller, Megan ",233701,38573,Karen,09/22/78,F,Married,7/7/2014,Active,Active,Sales and Distribution       ,Elijiah Gray,Fully Meets,17,Sheer Logic,Sales Executive
+88,"Fancett, Nicole",233298,34639,Mombasa Rd,09/27/87,F,Single,2/17/2014,Active,Active,Sales and Distribution       ,Webster Butler,Fully Meets,7,Fine Media,Sales Executive
+89,"Ferguson, Susan",238636,31088,Ruiru,04/14/55,F,Married,11/7/2011,5/17/2016,Voluntarily Terminated,Sales and Distribution       ,Webster Butler,Fully Meets,16,Sheer Logic,Sales Executive
+90,"Fernandes, Nilson  ",237642,33893,Mombasa Rd,10/18/89,M ,Married,5/11/2015,Active,Active,Sales and Distribution       ,Amy Dunn,PIP,15,Fine Media,Sales Executive
+91,"Fett, Boba",232589,35294,Kasarani,06/18/87,M ,Single,3/30/2015,Active,Active,Sales and Distribution,Peter Monroe,PIP,2,Sheer Logic,Sales Executive
+92,"Fidelia,  Libby",239560,34943,Kisumu,03/16/81,F,Married,1/9/2012,Active,Active,Sales and Distribution       ,Brannon Miller,Fully Meets,19,Fine Media,Sales Executive
+93,"Fitzpatrick, Michael  J",236550,31044,Ruiru,10/01/81,M ,Single,5/16/2011,6/24/2013,Voluntarily Terminated,Sales and Distribution       ,Amy Dunn,Fully Meets,20,Sheer Logic,Sales Executive
+94,"Foreman, Tanya",237525,36159,Kitengela,11/08/83,F,Married,4/4/2011,1/9/2013,Voluntarily Terminated,Sales and Distribution       ,Ketsia Liebig,Fully Meets,6,Fine Media,Sales Executive
+95,"Forrest, Alex",235328,30061,Ongata Rongai,07/07/75,M ,Married,9/29/2014,8/19/2018,Terminated for Cause,Sales,Lynn Daneault,PIP,7,Sheer Logic,Sales Executive
+96,"Foss, Jason",231430,34150,Kisumu,07/05/80,M ,Single,4/15/2011,Active,Active,Sales and Distribution,Jennifer Zamora,Exceeds,15,Fine Media,Sales Executive
+97,"Foster-Baker, Amy",235031,39991,Bamburi,04/16/79,F,Married,1/5/2009,Active,Active,Admin Offices,Board of Directors,Fully Meets,3,Sheer Logic,Sales Executive
+98,"Fraval, Maruk ",235440,39187,Ruiru,08/28/63,M ,Single,9/6/2011,Active,Active,Sales,Lynn Daneault,Fully Meets,7,Fine Media,Sales Executive
+99,"Galia, Lisa",234155,39958,Upper Hill,07/06/68,F,Single,5/1/2010,Active,Active,Sales and Distribution,Eric Dougall,Fully Meets,1,Sheer Logic,Sales Executive
+100,"Garcia, Raul",236128,33399,Gikambura,09/15/85,M ,Single,3/30/2015,Active,Active,Sales and Distribution       ,David Stanley,Fully Meets,5,Sheer Logic,Sales Executive
+101,"Gaul, Barbara",233846,30549,Kombewa,12/02/83,F,Single,5/16/2011,Active,Active,Sales and Distribution       ,Kelley Spirea,Fully Meets,12,Fine Media,Sales Executive
+102,"Gentry, Mildred",238181,31518,Loitokitok,10/01/90,F,Married,3/30/2015,Active,Active,Sales and Distribution       ,Michael Albert,Fully Meets,19,Sheer Logic,Sales Executive
+103,"Gerke, Melisa",234340,39935,Ongata Rongai,05/15/70,F,Divorced,11/7/2011,11/15/2016,Voluntarily Terminated,Sales and Distribution       ,Elijiah Gray,Fully Meets,2,Sheer Logic,Sales Executive
+104,"Gill, Whitney  ",234011,30887,Maseno,07/10/71,F,Widowed,7/7/2014,9/5/2015,Terminated for Cause,Sales,John Smith,Fully Meets,7,Fine Media,Sales Executive
+105,"Gilles, Alex",235903,33058,Muhoroni,08/09/74,M ,Married,4/2/2012,6/25/2015,Voluntarily Terminated,Sales and Distribution       ,Webster Butler,Needs Improvement,15,Sheer Logic,Sales Executive
+106,"Girifalco, Evelyn",231314,35663,Kitengela,05/08/80,F,Single,9/29/2014,Active,Active,Sales and Distribution       ,Amy Dunn,Exceeds,3,Fine Media,Sales Executive
+107,"Givens, Myriam",232278,39396,Eldoret,09/22/89,F,Single,2/16/2015,Active,Active,Sales,Lynn Daneault,Fully Meets,20,Fine Media,Sales Executive
+108,"Goble, Taisha",239551,33413,Maseno,10/23/71,F,Single,2/16/2015,3/15/2015,Terminated for Cause,Sales and Distribution,Simon Roup,Fully Meets,10,Fine Media,Sales Executive
+109,"Goeth, Amon",233592,34011,Changamwe,11/24/89,M ,Married,3/30/2015,Active,Active,Sales and Distribution,Peter Monroe,Fully Meets,20,Fine Media,Sales Executive
+110,"Gold, Shenice  ",238269,34377,Nyahera,06/18/92,F,Single,11/11/2013,Active,Active,Sales and Distribution       ,Ketsia Liebig,Fully Meets,7,Sheer Logic,Sales Executive
+111,"Gonzalez, Cayo",234289,36806,Ziwa,09/29/69,M ,Divorced,7/11/2011,Active,Active,Sales and Distribution       ,Brannon Miller,Exceeds,1,Sheer Logic,Sales Executive
+112,"Gonzalez, Juan",232581,39419,Ahero,10/12/64,M ,Married,4/26/2010,5/30/2011,Voluntarily Terminated,Sales and Distribution       ,Brannon Miller,PIP,10,Fine Media,Sales Executive
+113,"Gonzalez, Maria",238085,36263,Gikambura,04/16/81,F,Separated,1/5/2015,Active,Active,Sales and Distribution,Peter Monroe,Fully Meets,11,Fine Media,Sales Executive
+114,"Good, Susan",232082,36249,Kesses,05/25/86,F,Married,5/12/2014,Active,Active,Sales and Distribution       ,David Stanley,Fully Meets,20,Fine Media,Sales Executive
+115,"Gordon, David",236880,32539,Burnt Forest,05/21/79,M ,Married,7/2/2012,Active,Active,Sales and Distribution       ,David Stanley,Fully Meets,2,Sheer Logic,Sales Executive
+116,"Gosciminski, Phylicia  ",232966,31550,Ziwa,12/08/83,F,Separated,9/30/2013,Active,Active,Sales and Distribution       ,Kissy Sullivan,Fully Meets,1,Sheer Logic,Sales Executive
+117,"Goyal, Roxana",231704,34832,Eldoret,10/09/74,F,Married,8/19/2013,Active,Active,Sales and Distribution       ,Kissy Sullivan,Fully Meets,3,Fine Media,Sales Executive
+118,"Gray, Elijiah  ",235563,36649,Eastleigh,07/11/81,M ,Divorced,6/2/2015,Active,Active,Sales and Distribution       ,Janet King,Fully Meets,2,Fine Media,Sales Executive
+119,"Gross, Paula",233100,31364,Karen,05/21/83,F,Divorced,2/21/2011,1/11/2014,Voluntarily Terminated,Sales and Distribution       ,Kelley Spirea,Fully Meets,17,Fine Media,Sales Executive
+120,"Gruber, Hans",233614,33590,South B,06/30/89,M ,Married,4/20/2017,Active,Active,Sales and Distribution,Brian Champaigne,Fully Meets,8,Fine Media,Sales Executive
+121,"Guilianno, Mike",231999,36133,Mombasa Rd,02/09/69,M ,Single,3/7/2012,10/31/2014,Voluntarily Terminated,Sales,John Smith,Fully Meets,20,Sheer Logic,Sales Executive
+122,"Handschiegl, Joanne",239358,30893,Kajulu,03/23/77,F,Married,11/28/2011,Active,Active,Sales and Distribution       ,Michael Albert,Fully Meets,13,Fine Media,Sales Executive
+123,"Hankard, Earnest",236091,35364,Upper Hill,08/10/88,M ,Single,11/11/2013,Active,Active,Sales and Distribution       ,Kelley Spirea,Fully Meets,20,Sheer Logic,Sales Executive
+124,"Harrington, Christie ",234347,32616,Nyali,08/18/52,F,Single,1/9/2012,12/15/2015,Voluntarily Terminated,Sales and Distribution       ,Webster Butler,Fully Meets,8,Fine Media,Sales Executive
+125,"Harrison, Kara",234028,31136,South B,05/02/74,F,Married,5/12/2014,Active,Active,Sales and Distribution       ,Amy Dunn,Exceeds,5,Sheer Logic,Sales Executive
+126,"Heitzman, Anthony",234936,36100,Nyali,01/04/84,M ,Single,8/13/2012,Active,Active,Sales and Distribution       ,Ketsia Liebig,Fully Meets,1,Fine Media,Sales Executive
+127,"Hendrickson, Trina",234070,30258,Eldoret,08/27/72,F,Single,1/10/2011,6/18/2013,Voluntarily Terminated,Sales and Distribution       ,Kelley Spirea,Fully Meets,15,Sheer Logic,Sales Executive
+128,"Hitchcock, Alfred",238527,39425,Ongata Rongai,09/14/88,M ,Married,8/18/2014,Active,Active,Sales,John Smith,Fully Meets,9,Sheer Logic,Sales Executive
+129,"Homberger, Adrienne  J",232421,37738,Kasarani,02/16/84,F,Married,8/15/2011,4/7/2012,Voluntarily Terminated,Sales and Distribution       ,Michael Albert,Fully Meets,16,Fine Media,Sales Executive
+130,"Horton, Jayne",233388,33116,Ngong,02/21/84,F,Single,3/30/2015,Active,Active,Sales and Distribution,Simon Roup,Fully Meets,4,Fine Media,Sales Executive
+131,"Houlihan, Debra",232960,30380,Ongata Rongai,03/17/66,F,Married,5/5/2014,Active,Active,Sales,Janet King,Fully Meets,19,Fine Media,Sales Executive
+132,"Howard, Estelle",232269,33807,Burnt Forest,09/16/85,F,Married,2/16/2015,4/15/2015,Terminated for Cause,Admin Offices,Brandon R. LeBlanc,Fully Meets,6,Sheer Logic,Sales Executive
+133,"Hudson, Jane",236324,32812,Maseno,06/10/86,F,Single,2/20/2012,Active,Active,Sales and Distribution       ,Ketsia Liebig,Fully Meets,4,Sheer Logic,Sales Executive
+134,"Hunts, Julissa",239210,32517,Kilimani,03/11/84,F,Single,6/6/2016,Active,Active,Sales and Distribution       ,Elijiah Gray,Fully Meets,4,Fine Media,Sales Executive
+135,"Hutter, Rosalie",236595,37648,Kisauni,05/07/92,F,Separated,6/5/2015,Active,Active,Sales and Distribution       ,Webster Butler,Fully Meets,6,Sheer Logic,Sales Executive
+136,"Huynh, Ming",235950,38357,Kisauni,09/22/76,F,Divorced,2/21/2011,4/1/2013,Voluntarily Terminated,Sales and Distribution       ,Amy Dunn,Fully Meets,18,Fine Media,Sales Executive
+137,"Immediato, Walter",234028,33110,South C,11/15/76,M ,Married,2/21/2011,9/24/2012,Voluntarily Terminated,Sales and Distribution       ,Janet King,Needs Improvement,4,Fine Media,Sales Executive
+138,"Ivey, Rose ",233359,36625,Westlands,01/28/91,F,Single,8/19/2013,Active,Active,Sales and Distribution       ,Brannon Miller,Fully Meets,14,Sheer Logic,Sales Executive
+139,"Jackson, Maryellen",232375,30373,Karen,09/11/72,F,Single,11/5/2012,Active,Active,Sales and Distribution       ,David Stanley,Fully Meets,7,Sheer Logic,Sales Executive
+140,"Jacobi, Hannah  ",239120,35403,Lang’ata,03/22/66,F,Divorced,9/30/2013,Active,Active,Sales and Distribution       ,Kissy Sullivan,Fully Meets,7,Fine Media,Sales Executive
+141,"Jeannite, Tayana",238451,37043,Kasarani,11/06/86,F,Divorced,7/5/2011,Active,Active,Sales and Distribution       ,Ketsia Liebig,Exceeds,11,Sheer Logic,Sales Executive
+142,"Jhaveri, Sneha  ",239322,34761,Soy,04/13/64,F,Separated,1/6/2014,Active,Active,Sales and Distribution       ,Kelley Spirea,Fully Meets,9,Sheer Logic,Sales Executive
+143,"Johnson, George",232788,37327,Isinya,08/19/59,M ,Married,11/7/2011,4/29/2018,Voluntarily Terminated,Sales and Distribution       ,Michael Albert,Exceeds,9,Fine Media,Sales Executive
+144,"Johnson, Noelle ",239741,31481,Port Reitz,11/07/86,F,Married,1/5/2015,Active,Active,Sales and Distribution,Simon Roup,Fully Meets,2,Sheer Logic,Sales Executive
+145,"Johnston, Yen",231220,34832,Ongata Rongai,09/08/69,F,Single,7/7/2014,Active,Active,Sales and Distribution       ,Brannon Miller,Exceeds,1,Fine Media,Sales Executive
+146,"Jung, Judy  ",234901,31067,Kisauni,04/17/86,F,Married,1/10/2011,4/1/2016,Voluntarily Terminated,Sales and Distribution       ,Elijiah Gray,Fully Meets,4,Sheer Logic,Sales Executive
+147,"Kampew, Donysha",233626,33837,Eldoret,11/11/89,F,Single,11/7/2011,4/24/2014,Voluntarily Terminated,Sales,Debra Houlihan,Fully Meets,2,Sheer Logic,Sales Executive
+148,"Keatts, Kramer ",238154,31346,Karen,01/19/76,M ,Single,9/30/2013,Active,Active,Sales and Distribution       ,Michael Albert,Fully Meets,10,Sheer Logic,Sales Executive
+149,"Khemmich, Bartholemew",238740,34164,Koru,11/27/79,M ,Single,8/19/2013,Active,Active,Sales,Lynn Daneault,Fully Meets,13,Fine Media,Sales Executive
+150,"King, Janet",236856,35633,Eastleigh,09/21/54,F,Married,7/2/2012,Active,Active,Executive Office,Board of Directors,Fully Meets,10,Sheer Logic,Sales Executive
+151,"Kinsella, Kathleen  ",234613,38985,Westlands,12/08/73,F,Married,9/26/2011,6/4/2015,Voluntarily Terminated,Sales and Distribution       ,Webster Butler,Fully Meets,16,Fine Media,Sales Executive
+152,"Kirill, Alexandra  ",239341,34634,Likoni,10/08/70,F,Married,9/26/2011,1/9/2014,Voluntarily Terminated,Sales and Distribution       ,Amy Dunn,Fully Meets,6,Fine Media,Sales Executive
+153,"Knapp, Bradley  J",237074,38407,Karen,11/10/77,M ,Single,2/17/2014,Active,Active,Sales and Distribution       ,Ketsia Liebig,Fully Meets,3,Sheer Logic,Sales Executive
+154,"Kretschmer, John",236206,34108,Ruiru,02/02/80,M ,Married,1/10/2011,Active,Active,Sales and Distribution       ,Brannon Miller,Fully Meets,17,Fine Media,Sales Executive
+155,"Kreuger, Freddy",234367,35181,Eastleigh,02/24/69,M ,Single,3/7/2011,Active,Active,Sales,John Smith,Fully Meets,20,Fine Media,Sales Executive
+156,"Lajiri,  Jyoti",239320,36585,Ngong,04/23/86,M ,Married,11/10/2014,Active,Active,Sales and Distribution,Peter Monroe,Fully Meets,7,Fine Media,Sales Executive
+157,"Landa, Hans",236222,31535,Ruiru,07/01/72,M ,Married,1/10/2011,12/12/2015,Terminated for Cause,Sales and Distribution       ,Janet King,Fully Meets,9,Fine Media,Sales Executive
+158,"Langford, Lindsey",237872,31358,Bamburi,07/25/79,F,Divorced,1/7/2013,3/31/2014,Voluntarily Terminated,Sales and Distribution       ,David Stanley,Fully Meets,20,Sheer Logic,Sales Executive
+159,"Langton, Enrico",236330,38601,Ruaraka,12/09/86,M ,Married,7/9/2012,Active,Active,Sales and Distribution       ,David Stanley,Fully Meets,13,Fine Media,Sales Executive
+160,"LaRotonda, William  ",237600,39411,Bamburi,04/26/84,M ,Divorced,1/6/2014,Active,Active,Admin Offices,Brandon R. LeBlanc,Fully Meets,3,Fine Media,Sales Executive
+161,"Latif, Mohammed",231560,32458,Ahero,05/09/84,M ,Married,4/2/2012,4/15/2013,Voluntarily Terminated,Sales and Distribution       ,Kissy Sullivan,Fully Meets,20,Fine Media,Sales Executive
+162,"Le, Binh",233017,37442,Kisumu,06/14/87,F,Single,10/2/2016,Active,Active,Sales and Distribution,Brian Champaigne,Fully Meets,2,Sheer Logic,Sales Executive
+163,"Leach, Dallas",234531,30969,Kisauni,01/17/79,F,Single,9/26/2011,8/19/2018,Voluntarily Terminated,Sales and Distribution       ,Kissy Sullivan,Fully Meets,17,Fine Media,Sales Executive
+164,"LeBlanc, Brandon  R",238405,37750,Loitokitok,06/10/84,M ,Married,1/5/2016,Active,Active,Admin Offices,Janet King,Fully Meets,20,Sheer Logic,Sales Executive
+165,"Lecter, Hannibal",232571,38826,Eastleigh,09/02/82,M ,Married,5/14/2012,Active,Active,Sales and Distribution       ,Elijiah Gray,Fully Meets,10,Sheer Logic,Sales Executive
+166,"Leruth, Giovanni",234627,37982,South C,12/27/88,M ,Separated,4/30/2012,Active,Active,Sales,John Smith,Fully Meets,16,Sheer Logic,Sales Executive
+167,"Liebig, Ketsia",231688,32881,Eldoret,10/26/81,F,Married,9/30/2013,Active,Active,Sales and Distribution       ,Janet King,Exceeds,11,Sheer Logic,Sales Executive
+168,"Linares, Marilyn ",234215,33313,Dagoretti,03/26/81,F,Married,7/5/2011,9/26/2018,Voluntarily Terminated,Sales and Distribution       ,Michael Albert,Fully Meets,16,Sheer Logic,Sales Executive
+169,"Linden, Mathew",234094,31590,Nyali,03/19/79,M ,Married,7/8/2013,Active,Active,Sales and Distribution       ,Kelley Spirea,Fully Meets,7,Sheer Logic,Sales Executive
+170,"Lindsay, Leonara ",231992,39428,Kilimani,10/05/88,F,Single,1/21/2011,Active,Active,Sales and Distribution,Eric Dougall,Exceeds,14,Fine Media,Sales Executive
+171,"Lundy, Susan",234036,37246,Eldoret,12/26/76,F,Widowed,7/8/2013,9/15/2016,Voluntarily Terminated,Sales and Distribution       ,Michael Albert,Fully Meets,15,Sheer Logic,Sales Executive
+172,"Lunquist, Lisa",233973,34001,Upper Hill,03/28/82,F,Single,8/19/2013,Active,Active,Sales and Distribution       ,Elijiah Gray,Exceeds,19,Fine Media,Sales Executive
+173,"Lydon, Allison",233042,34353,Moi’s Bridge,10/22/75,F,Married,2/16/2015,Active,Active,Sales and Distribution       ,Elijiah Gray,Fully Meets,6,Fine Media,Sales Executive
+174,"Lynch, Lindsay",233710,33743,Mombasa Island,02/14/73,F,Single,11/7/2011,11/14/2015,Voluntarily Terminated,Sales and Distribution       ,Webster Butler,Exceeds,17,Sheer Logic,Sales Executive
+175,"MacLennan, Samuel",234211,38622,Eldoret,11/09/72,M ,Widowed,9/24/2012,9/26/2017,Voluntarily Terminated,Sales and Distribution       ,Amy Dunn,Fully Meets,18,Sheer Logic,Sales Executive
+176,"Mahoney, Lauren  ",231351,32329,Koru,07/07/86,F,Single,1/6/2014,Active,Active,Sales and Distribution       ,Ketsia Liebig,Fully Meets,14,Sheer Logic,Sales Executive
+177,"Manchester, Robyn",231955,37682,Bamburi,08/25/76,F,Married,5/11/2016,Active,Active,Sales and Distribution       ,Webster Butler,Fully Meets,4,Fine Media,Sales Executive
+178,"Mancuso, Karen",236231,38478,Westlands,12/10/86,F,Married,7/5/2011,8/19/2012,Voluntarily Terminated,Sales and Distribution       ,Amy Dunn,Fully Meets,16,Fine Media,Sales Executive
+179,"Mangal, Debbie",239992,35327,Kesses,11/07/74,F,Married,11/11/2013,Active,Active,Sales and Distribution       ,Brannon Miller,Fully Meets,11,Sheer Logic,Sales Executive
+180,"Martin, Sandra",231701,38028,Maseno,11/07/87,F,Single,11/11/2013,Active,Active,Software Engineering,Alex Sweetwater,Fully Meets,14,Fine Media,Sales Executive
+181,"Maurice, Shana",233106,38004,Nyahera,11/22/77,F,Married,5/31/2011,Active,Active,Sales and Distribution       ,David Stanley,Fully Meets,8,Sheer Logic,Sales Executive
+182,"Carthy, B'rigit",239124,35217,Dagoretti,05/21/87,F,Single,3/30/2015,Active,Active,Sales and Distribution       ,Ketsia Liebig,Fully Meets,16,Sheer Logic,Sales Executive
+183,"Mckenna, Sandy",233765,30266,Moi’s Bridge,01/07/87,F,Married,1/7/2013,Active,Active,Sales and Distribution       ,Kissy Sullivan,Fully Meets,20,Sheer Logic,Sales Executive
+184,"McKinzie, Jac",231687,37482,Ongata Rongai,07/01/84,M ,Married,7/6/2016,Active,Active,Sales,Lynn Daneault,Fully Meets,7,Fine Media,Sales Executive
+185,"Meads, Elizabeth",233038,30380,Mombasa Rd,05/30/68,F,Single,4/2/2012,11/11/2016,Voluntarily Terminated,Sales and Distribution       ,Kelley Spirea,Fully Meets,17,Sheer Logic,Sales Executive
+186,"Medeiros, Jennifer",237939,30837,Eldoret,09/22/76,F,Single,3/30/2015,Active,Active,Sales and Distribution       ,Michael Albert,Fully Meets,10,Sheer Logic,Sales Executive
+187,"Miller, Brannon",233144,31315,Kombewa,08/10/81,M ,Single,8/16/2012,Active,Active,Sales and Distribution       ,Janet King,Fully Meets,2,Sheer Logic,Sales Executive
+188,"Miller, Ned",232201,32406,Kenyatta,06/29/85,M ,Single,8/15/2011,9/4/2014,Voluntarily Terminated,Sales and Distribution       ,Brannon Miller,PIP,6,Fine Media,Sales Executive
+189,"Monkfish, Erasumus",232982,36917,Moi’s Bridge,08/17/92,M ,Married,11/7/2011,Active,Active,Sales and Distribution       ,David Stanley,Fully Meets,14,Sheer Logic,Sales Executive
+190,"Monroe, Peter",235675,31127,Muhoroni,10/05/86,M ,Married,2/15/2012,Active,Active,Sales and Distribution,Jennifer Zamora,Needs Improvement,13,Fine Media,Sales Executive
+191,"Monterro, Luisa",234672,34473,Kesses,04/24/70,F,Single,5/13/2013,Active,Active,Sales and Distribution       ,Kissy Sullivan,Exceeds,1,Sheer Logic,Sales Executive
+192,"Moran, Patrick",231435,32500,Ngong,12/03/76,M ,Single,1/9/2012,Active,Active,Sales and Distribution       ,Kelley Spirea,Fully Meets,12,Sheer Logic,Sales Executive
+193,"Morway, Tanya",235424,34263,Karen,04/04/79,F,Married,2/16/2015,Active,Active,Sales and Distribution,Peter Monroe,Fully Meets,6,Sheer Logic,Sales Executive
+194,"Motlagh,  Dawn",239676,34892,Kajulu,07/07/84,F,Divorced,4/1/2013,Active,Active,Sales and Distribution       ,Elijiah Gray,Fully Meets,18,Fine Media,Sales Executive
+195,"Moumanil, Maliki ",238478,34790,Changamwe,12/01/74,M ,Separated,5/13/2013,Active,Active,Sales and Distribution       ,Michael Albert,Fully Meets,11,Sheer Logic,Sales Executive
+196,"Myers, Michael",233180,36063,Nyahera,04/18/80,M ,Single,7/8/2013,Active,Active,Sales and Distribution       ,Kissy Sullivan,Fully Meets,13,Sheer Logic,Sales Executive
+197,"Navathe, Kurt",235767,33860,Karen,04/25/70,M ,Single,2/10/2017,Active,Active,Sales and Distribution,Brian Champaigne,Fully Meets,17,Sheer Logic,Sales Executive
+198,"Ndzi, Colombui",236718,33925,Dagoretti,05/02/89,M ,Single,9/26/2011,4/4/2014,Voluntarily Terminated,Sales and Distribution       ,Webster Butler,Fully Meets,19,Sheer Logic,Sales Executive
+199,"Ndzi, Horia",239567,39477,Burnt Forest,03/28/83,M ,Married,4/1/2013,5/25/2016,Voluntarily Terminated,Sales and Distribution       ,Amy Dunn,Fully Meets,10,Sheer Logic,Sales Executive
+200,"Newman, Richard ",239785,34120,Kisauni,04/08/77,M ,Married,5/12/2014,Active,Active,Sales and Distribution       ,Ketsia Liebig,Fully Meets,11,Sheer Logic,Sales Executive
+201,"Ngodup, Shari ",233868,38159,Kitengela,06/03/67,F,Separated,4/1/2013,Active,Active,Sales and Distribution       ,Brannon Miller,Exceeds,12,Fine Media,Sales Executive
+202,"Nguyen, Dheepa",234070,32067,Bamburi,03/31/89,F,Single,7/8/2013,Active,Active,Sales,Lynn Daneault,Fully Meets,2,Sheer Logic,Sales Executive
+203,"Nguyen, Lei-Ming",237864,35411,Kombewa,07/07/84,F,Single,7/8/2013,Active,Active,Sales and Distribution       ,David Stanley,Fully Meets,4,Fine Media,Sales Executive
+204,"Nowlan, Kristie",238892,32364,Changamwe,11/23/85,F,Single,11/10/2014,Active,Active,Sales and Distribution       ,Elijiah Gray,Fully Meets,5,Sheer Logic,Sales Executive
+205,"O'hare, Lynn",234077,33193,Kenyatta,09/30/80,F,Single,3/31/2014,5/1/2018,Terminated for Cause,Sales and Distribution       ,Kissy Sullivan,PIP,3,Sheer Logic,Sales Executive
+206,"Oliver, Brooke ",234396,36605,Kasarani,02/11/52,F,Married,5/14/2012,8/19/2013,Voluntarily Terminated,Sales and Distribution       ,Webster Butler,Fully Meets,17,Sheer Logic,Sales Executive
+207,"Onque, Jasmine",232343,33529,Bamburi,05/11/90,F,Single,9/30/2013,Active,Active,Sales,Lynn Daneault,Fully Meets,1,Fine Media,Sales Executive
+208,"Osturnka, Adeel",238956,34393,Ngong,12/11/76,M ,Married,9/30/2013,Active,Active,Sales and Distribution       ,Kelley Spirea,Exceeds,13,Sheer Logic,Sales Executive
+209,"Owad, Clinton",232839,30028,Kitengela,11/24/79,M ,Single,2/17/2014,Active,Active,Sales and Distribution       ,Michael Albert,Needs Improvement,6,Fine Media,Sales Executive
+210,"Ozark, Travis",233933,38479,Eastleigh,05/19/82,M ,Single,1/5/2015,Active,Active,Sales,John Smith,Fully Meets,18,Fine Media,Sales Executive
+211,"Panjwani, Nina",238775,37051,Kajulu,05/01/79,F,Married,2/7/2011,1/12/2014,Voluntarily Terminated,Sales and Distribution       ,Elijiah Gray,Fully Meets,7,Fine Media,Sales Executive
+212,"Patronick, Lucas",236382,39727,Port Reitz,02/20/79,M ,Single,11/7/2011,9/7/2015,Voluntarily Terminated,Software Engineering,Alex Sweetwater,Exceeds,13,Fine Media,Sales Executive
+213,"Pearson, Randall",234862,30430,Mombasa Island,09/05/84,M ,Married,12/1/2014,5/1/2016,Voluntarily Terminated,Sales and Distribution,Simon Roup,Fully Meets,19,Fine Media,Sales Executive
+214,"Smith, Martin",235215,39769,Maseno,03/17/88,M ,Single,1/10/2011,12/28/2017,Voluntarily Terminated,Sales and Distribution       ,Webster Butler,Needs Improvement,15,Sheer Logic,Sales Executive
+215,"Pelletier, Ermine",233257,31873,Kajulu,07/18/89,F,Married,7/5/2011,9/15/2015,Voluntarily Terminated,Sales and Distribution       ,Amy Dunn,Needs Improvement,2,Sheer Logic,Sales Executive
+216,"Perry, Shakira",238483,38672,South C,07/20/86,F,Single,5/16/2011,10/25/2015,Voluntarily Terminated,Sales and Distribution       ,Amy Dunn,Fully Meets,5,Sheer Logic,Sales Executive
+217,"Peters, Lauren",235706,39521,Kisumu,08/17/86,F,Married,5/16/2011,2/4/2013,Voluntarily Terminated,Sales and Distribution       ,Ketsia Liebig,Exceeds,12,Fine Media,Sales Executive
+218,"Peterson, Ebonee  ",234257,38594,Ziwa,05/09/77,F,Married,10/25/2010,5/18/2016,Voluntarily Terminated,Sales and Distribution       ,Janet King,Fully Meets,6,Sheer Logic,Sales Executive
+219,"Petingill, Shana  ",231172,34636,Kesses,03/10/79,F,Married,4/2/2012,Active,Active,Sales and Distribution       ,Brannon Miller,Fully Meets,14,Fine Media,Sales Executive
+220,"Petrowsky, Thelma",231681,31422,Westlands,09/16/84,F,Married,11/10/2014,Active,Active,Sales and Distribution,Simon Roup,Exceeds,16,Fine Media,Sales Executive
+221,"Pham, Hong",231123,34656,Port Reitz,03/06/88,M ,Married,7/5/2011,11/30/2012,Voluntarily Terminated,Sales and Distribution       ,Brannon Miller,Fully Meets,13,Fine Media,Sales Executive
+222,"Pitt, Brad ",235533,35528,Lang’ata,11/23/81,M ,Single,11/5/2007,Active,Active,Sales and Distribution       ,David Stanley,Fully Meets,15,Sheer Logic,Sales Executive
+223,"Potts, Xana",233912,33910,Soy,08/29/88,F,Married,1/9/2012,Active,Active,Sales,Lynn Daneault,Fully Meets,9,Sheer Logic,Sales Executive
+224,"Power, Morissa",236717,30711,Maseno,10/15/84,F,Divorced,5/16/2011,6/4/2018,Voluntarily Terminated,Sales and Distribution       ,Kissy Sullivan,Fully Meets,14,Fine Media,Sales Executive
+225,"Punjabhi, Louis  ",232726,33255,Upper Hill,06/19/61,M ,Single,1/6/2014,Active,Active,Sales and Distribution       ,Kelley Spirea,Fully Meets,14,Fine Media,Sales Executive
+226,"Purinton, Janine",234389,35780,Bamburi,09/22/70,F,Divorced,9/24/2012,6/18/2013,Voluntarily Terminated,Sales and Distribution       ,Kissy Sullivan,Fully Meets,16,Sheer Logic,Sales Executive
+227,"Quinn, Sean",237241,34860,Isinya,11/06/84,M ,Married,2/21/2011,8/15/2015,Voluntarily Terminated,Software Engineering,Janet King,Fully Meets,4,Fine Media,Sales Executive
+228,"Rachael, Maggie",238343,31311,Nyahera,05/12/80,F,Married,10/2/2016,Active,Active,Sales and Distribution,Brian Champaigne,Fully Meets,10,Fine Media,Sales Executive
+229,"Rarrick, Quinn",233761,34545,Ahero,12/31/84,M ,Divorced,9/26/2011,4/7/2018,Voluntarily Terminated,Sales and Distribution       ,Michael Albert,Fully Meets,19,Sheer Logic,Sales Executive
+230,"Ren, Kylo",232181,32659,Ruaraka,10/12/54,M ,Married,5/12/2014,Active,Active,Sales,John Smith,Fully Meets,4,Sheer Logic,Sales Executive
+231,"Rhoads, Thomas",238700,39062,Kombewa,07/22/82,M ,Divorced,5/16/2011,1/15/2016,Voluntarily Terminated,Sales and Distribution       ,Elijiah Gray,Fully Meets,11,Sheer Logic,Sales Executive
+232,"Rivera, Haley  ",235459,37889,Ruiru,01/12/73,F,Married,11/28/2011,Active,Active,Sales and Distribution       ,Webster Butler,Exceeds,16,Fine Media,Sales Executive
+233,"Roberson, May",235777,34637,Isinya,09/05/81,F,Divorced,9/26/2011,10/22/2011,Voluntarily Terminated,Sales and Distribution       ,David Stanley,Fully Meets,10,Sheer Logic,Sales Executive
+234,"Robertson, Peter",236919,34392,Upper Hill,07/03/72,M ,Married,7/5/2011,2/8/2012,Voluntarily Terminated,Sales and Distribution       ,Kissy Sullivan,Fully Meets,13,Fine Media,Sales Executive
+235,"Robinson, Alain  ",234288,30302,Ongata Rongai,01/07/74,M ,Married,1/10/2011,1/26/2016,Voluntarily Terminated,Sales and Distribution       ,Amy Dunn,Fully Meets,11,Sheer Logic,Sales Executive
+236,"Robinson, Cherly",231159,38946,Soy,01/07/85,F,Married,1/10/2011,5/17/2016,Terminated for Cause,Sales and Distribution       ,Ketsia Liebig,Needs Improvement,16,Sheer Logic,Sales Executive
+237,"Robinson, Elias",231626,36429,Lang’ata,01/28/85,M ,Widowed,7/8/2013,Active,Active,Sales and Distribution       ,Brannon Miller,Exceeds,4,Fine Media,Sales Executive
+238,"Roby, Lori ",231879,34952,Upper Hill,10/11/81,F,Married,2/16/2015,Active,Active,Sales and Distribution,Simon Roup,Fully Meets,15,Sheer Logic,Sales Executive
+239,"Roehrich, Bianca",231517,38639,Mombasa Island,05/27/73,F,Single,1/5/2015,11/10/2018,Voluntarily Terminated,Sales and Distribution,Simon Roup,Fully Meets,12,Fine Media,Sales Executive
+240,"Roper, Katie",239508,38528,Lang’ata,11/21/72,F,Single,1/7/2017,Active,Active,Sales and Distribution,Brian Champaigne,Fully Meets,17,Fine Media,Sales Executive
+241,"Rose, Ashley  ",237667,31778,Port Reitz,12/05/74,F,Separated,1/6/2014,Active,Active,Sales and Distribution       ,David Stanley,Fully Meets,8,Fine Media,Sales Executive
+242,"Rossetti, Bruno",231471,32964,Kisauni,03/18/87,M ,Single,4/4/2011,8/13/2018,Voluntarily Terminated,Sales and Distribution       ,Kissy Sullivan,Fully Meets,4,Fine Media,Sales Executive
+243,"Roup,Simon",235790,30452,Kombewa,04/05/73,M ,Single,1/20/2013,Active,Active,Sales and Distribution,Jennifer Zamora,Fully Meets,13,Fine Media,Sales Executive
+244,"Ruiz, Ricardo",232952,39619,South C,01/04/64,M ,Divorced,1/9/2012,11/4/2015,Voluntarily Terminated,Sales and Distribution,Jennifer Zamora,Fully Meets,8,Sheer Logic,Sales Executive
+245,"Saada, Adell",233380,31057,Upper Hill,07/24/86,F,Married,11/5/2012,Active,Active,Software Engineering,Alex Sweetwater,Fully Meets,2,Sheer Logic,Sales Executive
+246,"Saar-Beckles, Melinda",237893,31525,Nyali,06/06/68,F,Single,7/4/2016,Active,Active,Sales and Distribution       ,Kelley Spirea,Needs Improvement,4,Fine Media,Sales Executive
+247,"Sadki, Nore  ",237027,33392,Nyali,12/21/74,M ,Single,1/5/2009,7/30/2018,Voluntarily Terminated,Sales and Distribution       ,Michael Albert,Fully Meets,7,Sheer Logic,Sales Executive
+248,"Sahoo, Adil",238214,35124,South B,04/26/86,M ,Married,8/30/2010,Active,Active,Sales and Distribution       ,Kelley Spirea,Fully Meets,13,Sheer Logic,Sales Executive
+249,"Salter, Jason",236287,39809,Bamburi,12/17/87,M ,Divorced,1/5/2015,10/31/2015,Voluntarily Terminated,Sales and Distribution,Simon Roup,Fully Meets,2,Fine Media,Sales Executive
