@@ -6,10 +6,10 @@ import os
 import hashlib
 import json
 import logging
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 
 # Load environment variables
-load_dotenv()
+#load_dotenv()
 
 # --- Configuration ---
 # DATABASE PATH - IMPORTANT: This path should be accessible by your Docker container
