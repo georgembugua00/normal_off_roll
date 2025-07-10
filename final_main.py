@@ -1533,10 +1533,10 @@ def main_app():
 
     # Common pages for all logged-in users (e.g., Home, Logout)
     home_page = st.Page(
-        title="Home",
+        page="Home",
         icon=":material/home:",
         default=True,
-        func=lambda: st.write(f"## Welcome, {st.session_state.full_name} ({st.session_state.user_role})!") # Simple home for now
+        title=lambda: st.write(f"## Welcome, {st.session_state.full_name} ({st.session_state.user_role})!") # Simple home for now
     )
     pages["Home"] = [home_page]
 
@@ -1544,19 +1544,19 @@ def main_app():
         l_hub = st.Page(
             title="My Leave Hub",
             icon=":material/flight_takeoff:",
-            page=employee_leave_portal_page
+            page='normal_employee/main.py'
         )
         pages["Leave Management"] = [l_hub]
     elif user_role == "Manager":
         manager_hub = st.Page(
             title="Manage Team Leaves",
             icon=":material/group_add:",
-            page=manager_leave_request_manager_page
+            page='Manager/home_page.py'
         )
         team_calendar = st.Page(
             title="Team Leave Calendar",
             icon=":material/calendar_month:",
-            page=team_leave_calendar_page
+            page='Manager/team_overview'
         )
         pages["Leave Management"] = [manager_hub, team_calendar]
     elif user_role == "HR":
