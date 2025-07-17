@@ -7,7 +7,7 @@ import uuid # Needed for potential record IDs if adding/modifying leaves
 from datetime import datetime, timedelta # Needed for date handling
 
 # --- Database connection path for leave management ---
-LEAVE_DB_PATH = '/Users/danielwanganga/Documents/Airtel_AI/leave_management.db'
+LEAVE_DB_PATH = 'leave_management.db'
 
 def init_leave_db():
     """Initializes the leave_management table if it doesn't exist."""
@@ -74,7 +74,7 @@ st.title("HR Portal: Leave & Partner Management")
 
 # Load partner data
 try:
-    data = pd.read_csv("/Users/danielwanganga/Documents/Channel Partner/saidii_multi_page/inhouse/data/partner_streamlit.csv")
+    data = pd.read_csv("partner_streamlit.csv")
     st.subheader("Partner Performance")
 
     # Dropdown for filtering by partner
@@ -100,7 +100,7 @@ try:
 
 except FileNotFoundError:
     st.error("Error: 'partner_streamlit.csv' not found. Please ensure the file path is correct.")
-    st.info("Expected path: `/Users/danielwanganga/Documents/Channel Partner/saidii_multi_page/inhouse/data/partner_streamlit.csv`")
+    st.info("Expected path: `partner_streamlit.csv`")
 except Exception as e:
     st.error(f"An error occurred while loading partner data: {e}")
 
