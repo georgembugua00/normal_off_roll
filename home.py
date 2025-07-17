@@ -100,9 +100,9 @@ try:
     )
 
     # Filter data based on selected partner
-    #filtered_df = data[data['Partner'] == selected_partner]
+    filtered_df = data[data['Partner'] == selected_partner]
 
-    #performance = filtered_df['PerformanceScore'].value_counts()
+    performance = filtered_df['PerformanceScore'].value_counts()
 
     #st.dataframe(data=data)
 
@@ -125,7 +125,7 @@ st.divider()
 st.subheader("Leave Management Overview")
 
 # Get all leave data
-leaves_data = get_all_leaves()
+leaves_data = leave_data
 
 if leaves_data:
     leaves_df = pd.DataFrame(leaves_data)
