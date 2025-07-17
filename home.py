@@ -85,3 +85,28 @@ with st.container(border=False):
 st.divider()            
 # Space for the Gauge
 st.plotly_chart(fig)
+
+st.divider()
+st.subheader("Leave Management Overview")
+
+# Get all leave data
+leaves_data = get_all_leaves()
+
+if leaves_data:
+    leaves_df = pd.DataFrame(data)
+
+    st.write("#### All Leave Requests")
+    st.dataframe(leaves_df, use_container_width=True)
+
+    # Basic Leave Statistics
+    st.write("#### Leave Statistics")
+    leave_status_counts = leaves_df['status'].value_counts().reset_index()
+    leave_status_counts.columns = ['Status', 'Count']
+    st.bar_chart(leave_status_counts.set_index('Status'))
+
+    # You can add more detailed filtering or management tools here for HR
+    st.markdown("---")
+    st.write("For detailed leave management (approve/reject), you might want to add more UI elements here.")
+
+else:
+    st.info("No leave records found in the database.")
