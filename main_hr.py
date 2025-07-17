@@ -33,7 +33,6 @@ navigation = st.navigation({
     "Home": [home],
     'Leave Hub' :[leave_management],
     "Payroll" : [payroll],
-    "Performance":[performance]
 })
 
 navigation.run()
