@@ -9,23 +9,23 @@ st.set_page_config(page_title="HR & Leave App", layout="wide")
 
 home = st.Page(
     title="Home",
-    page='/Users/danielwanganga/Documents/Airtel_AI/inhouse/home.py',   
+    page='home.py',   
     default=True
 )
    
 
 leave_management = st.Page(
     title="Partner Stats",
-    page='/Users/danielwanganga/Documents/Airtel_AI/inhouse/leave_page.py',   
+    page='leave_page.py',   
 )
 
 performance = st.Page(
     title='Agent Hub',
-    page='/Users/danielwanganga/Documents/Airtel_AI/inhouse/partner_stats.py'
+    page='partner_stats.py'
 )
 payroll = st.Page(
     title='Payroll',
-    page='/Users/danielwanganga/Documents/Airtel_AI/inhouse/payroll.py'
+    page='payroll.py'
 )
 
 
