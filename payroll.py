@@ -5,7 +5,7 @@ from millify import prettify
 
 
 
-data = pd.read_csv("/Users/danielwanganga/Documents/Channel Partner/saidii_multi_page/inhouse/data/partner_streamlit.csv")
+data = pd.read_csv("partner_streamlit.csv")
 st.title("Partner Payroll")
 
 # Dropdown for filtering by partner
