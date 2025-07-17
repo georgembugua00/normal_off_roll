@@ -7,7 +7,7 @@ from millify import prettify
 
 
 # Backend Code
-data = pd.read_csv("/Users/danielwanganga/Documents/Channel Partner/saidii_multi_page/inhouse/data/partner_streamlit.csv")
+data = pd.read_csv("partner_streamlit.csv")
 
 # Create SheerLogic and Fine Media Dataframes
 terminated_sheerlogic = data[data['Partner'] == 'Sheer Logic']
@@ -65,7 +65,7 @@ st.divider()
 with st.container(border=False):
     col1,col2 = st.columns(2,gap='medium',vertical_alignment='top')
     with col1:
-        st.image('/Users/danielwanganga/Documents/Channel Partner/saidii_multi_page/inhouse/images/file (1).svg',width=360)
+        st.image('file (1).svg',width=360)
         col3,col4 = st.columns(2)
         with col3:
             st.metric('Current Leave Liability in KES',leave_liability_sheerlogic,'+2.5%')
@@ -75,7 +75,7 @@ with st.container(border=False):
 
             
     with col2:
-        st.image("/Users/danielwanganga/Documents/Channel Partner/saidii_multi_page/inhouse/images/file.svg",width=450) 
+        st.image("file.svg",width=450) 
         col5,col6 = st.columns(2)
         with col5:
             st.metric('Current Leave Liability in KES',leave_liability_fine_media,'+2.5%')
