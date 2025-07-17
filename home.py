@@ -100,11 +100,11 @@ try:
     )
 
     # Filter data based on selected partner
-    filtered_df = data[data['Partner'] == selected_partner]
+    #filtered_df = data[data['Partner'] == selected_partner]
 
-    performance = filtered_df['PerformanceScore'].value_counts()
+    #performance = filtered_df['PerformanceScore'].value_counts()
 
-    st.dataframe(data=data)
+    #st.dataframe(data=data)
 
 
     performance = pd.DataFrame(performance)
